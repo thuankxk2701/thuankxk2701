@@ -10,8 +10,8 @@
 
 - 🔭 I’m currently working on my project [Typescript](https://github.com/thuankxk2701/Typescript)
 - 🌱 I’m currently learning Javascript & Python & NodeJs & Java & React & Redux ...
-- 📫 How to reach me: [send mail](mailto:ttctde@gmail.com)
-- 💬 Ask me about anything [here](https://github.com/thuankxk2701/InterfaceProfile/issues)
+- 📫 How to reach me: [Send Mail](mailto:ttctde@gmail.com)
+- 💬 Ask me about anything [Here](https://github.com/thuankxk2701/InterfaceProfile/issues)
 <br />
 
 
@@ -43,6 +43,7 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/thuankxk2701)](https://github.com/thuankxk2701) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/thuankxk2701)](https://github.com/thuankxk2701)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/thuankxk2701)](https://gitlab.com/thuankxk2701) 
+[![NodeJs](https://img.shields.io/badge/NodeJs-1cb800?style=flat&logo=nodeJs&logoColor=white&https://github.com/thuankxk2701)](https://github.com/thuankxk2701) 
 <br>
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/thuankxk2701)](https://github.com/thuankxk2701)
