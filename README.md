@@ -8,7 +8,7 @@
 
 ✨Hi, I'm KeyXk.✨
 
-- 🔭 I’m currently working on my project [SuperMall](https://github.com/thuankxk2701/Typescript)
+- 🔭 I’m currently working on my project [Typescript](https://github.com/thuankxk2701/Typescript)
 - 🌱 I’m currently learning Javascript & Python & NodeJs & Java & React & Redux ...
 - 📫 How to reach me: [send mail](mailto:ttctde@gmail.com)
 - 💬 Ask me about anything [here](https://github.com/thuankxk2701/InterfaceProfile/issues)
