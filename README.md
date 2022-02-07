@@ -18,7 +18,7 @@
 <table border="0">
     <tr>
         <td><center><img align="center" src="https://github-readme-stats.vercel.app/api?username=thuankxk2701&show_icons=true&count_private=true&hide_title=true&theme=cobalt"></center></td>
-        <td><center> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuankxk2701&langs_count=8&theme=dark&count_private=true&layout=compact&hide=css,CoffeeScript" /></center></td>
+        <td><center> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuankxk2701&langs_count=8&theme=merko&count_private=true&layout=compact&hide=css,CoffeeScript" /></center></td>
     </tr>
 </table>
 <a href="https://github.com/thuankxk2701"><img src="https://ghchart.rshah.org/409ba5/thuankxk2701" alt="KeyXK Github Chart" /></a>
