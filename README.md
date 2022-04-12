@@ -46,8 +46,8 @@
 [![NodeJs](https://img.shields.io/badge/NodeJs-1cb800?style=flat&logo=nodeJs&logoColor=white&https://github.com/thuankxk2701)](https://github.com/thuankxk2701) 
 <br>
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/thuankxk2701)](https://github.com/thuankxk2701)
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/thuankxk2701)](https://github.com/thuankxk2701)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/thuankxk2701)](https://leetcode.com/keyxk)
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/thuankxk2701)](https://hub.docker.com/u/keyxk)
 <br>
 
 [![Word](https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word)](https://github.com/thuankxk2701)
