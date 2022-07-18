@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm [KeyXk!](https://github.com/thuankxk2701) 👋
+### Hi there 你们好, I'm [KeyXk! 阮文顺 ](https://github.com/thuankxk2701) 👋
 
 > :octocat: If you say what kind of person I am ? I will tell you that I am an introvert.→_→
 
